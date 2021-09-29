@@ -1,0 +1,4 @@
+export PYTHONPATH=/home/allen/code/on-policy-main
+
+监控GPU：nvidia-smi -l
+监控CPU：cpustat -T -D -x
